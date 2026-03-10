@@ -78,7 +78,7 @@ I enjoy designing **clean architectures and high-performance financial platforms
 Key Projects:
 
 - **Payment Gateway System**
-- **Easy Pay E-Wallet**
+- **Easy E-Wallet**
 - **Exchange & Transfer System**
 
 ---
