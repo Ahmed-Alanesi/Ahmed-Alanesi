@@ -87,7 +87,7 @@ A comprehensive service enabling customers to make electronic payments and finan
 - ODIC/OAuth2.0 for identity and authorization management
 - Secure and seamless payment experience
 
-### **💰 Easy Pay**
+### **💰 Easy**
 Specialized E-Wallet system with confidential features developed using **C# ASP.NET Core**.
 
 ### **💱 Exchange and Transfer System**
