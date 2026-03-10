@@ -5,7 +5,7 @@
 I am a passionate software engineer with **7+ years of experience** building scalable enterprise applications and financial transaction systems.  
 I specialize in **.NET Core, Microservices Architecture, and High-Performance APIs**.
 
-I enjoy designing **clean architectures, distributed systems, and high-performance financial platforms**.
+I enjoy designing **clean architectures and high-performance financial platforms**.
 
 ---
 
@@ -14,7 +14,7 @@ I enjoy designing **clean architectures, distributed systems, and high-performan
 - 🔭 Currently working as **Senior Backend Developer**
 - 💳 Specialized in **Payment Gateways & Financial Systems**
 - 🧠 Strong knowledge of **Software Architecture & Design Patterns**
-- ⚙️ Experienced in **Microservices, Distributed Systems**
+- ⚙️ Experienced in **Microservices Architecture**
 - 📚 Always learning new technologies and improving system scalability
 - 🌍 Based in **Sana’a, Yemen**
 
@@ -65,7 +65,7 @@ I enjoy designing **clean architectures, distributed systems, and high-performan
 
 ## 📈 Professional Experience
 
-### Senior Backend Developer — Tharwat
+### Senior Backend Developer — Tharwat  
 **2021 — Present**
 
 - Designed and developed **Payment Gateway systems**
@@ -83,7 +83,7 @@ Key Projects:
 
 ---
 
-### Software Developer — New Idea Team
+### Software Developer — New Idea Team  
 **2018 — 2021**
 
 - Built enterprise applications using **ASP.NET and SQL Server**
@@ -92,7 +92,7 @@ Key Projects:
 
 ---
 
-### Junior .NET Developer — New Idea Team
+### Junior .NET Developer — New Idea Team  
 **2017 — 2018**
 
 - Developed **desktop applications using VB.NET and C#**
